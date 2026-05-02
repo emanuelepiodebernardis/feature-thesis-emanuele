@@ -1,0 +1,2 @@
+model,target,f1,roc_auc,size_original_kb,size_quantized_kb,compression_ratio,fits_target,latency_us
+mlp,ESP32-C3,0.9957925207849473,,79.5859375,13.09375,6.078162291169451,,415.31149996444583
